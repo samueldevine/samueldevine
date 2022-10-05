@@ -1,4 +1,24 @@
-### Hi there 👋
+<h3 align=center> Hi, I'm Sam 👋 </h3>
+<h2 align=center> Backend engineer based in Denver, CO 🌄 </h2>
+
+<h3> About Me </h3>
+
+- ♂ Preferred pronouns: he/him
+- 🔭 I’m currently working on ✨ _building something new_ ✨ with **[Athena Advisory](https://www.advicebyathena.com/)**
+- 💻 Tech that I know best:
+  - 🐍 Python, Flask, Django
+  - 💎 Ruby, Ruby on Rails
+  - 💾 PostgreSQL, Relational and NoSQL databases
+  - ☁ Google Cloud Platform (GCP), Amazon Web Services (AWS)
+
+- 💸 Ex-[Gusto](https://gusto.com/)
+- 🧑‍💻 [Turing](https://turing.edu/) Alum; 2108 BE
+
+<h3> Connect with me: </h3>
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/samueldevine/)
+
+
 
 <!--
 **samueldevine/samueldevine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
