@@ -3,7 +3,7 @@
 
 <h3> About Me </h3>
 
-- ♂ Preferred pronouns: he/him
+- ♂ he/him
 - 🔭 I’m currently working on ✨ _building something new_ ✨ with **[Athena Advisory](https://www.advicebyathena.com/)**
 - 💻 Tech that I know best:
   - 🐍 Python, Flask, Django
