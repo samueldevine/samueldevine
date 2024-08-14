@@ -4,7 +4,7 @@
 <h3> About Me </h3>
 
 - ♂ he/him
-- 🔭 I’m currently working on building something new with **[Athena Advisory](https://www.advicebyathena.com/)**
+- 🔭 I’m currently **looking for work!** Please don't hesitate to contact me for onsite/hybrid roles in the Denver area, or remote roles anywhere.
 - 💻 Tech that I know best:
   - 🐍 Python, Flask, Django
   - 💎 Ruby, Ruby on Rails
