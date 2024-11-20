@@ -4,12 +4,11 @@
 <h3> About Me </h3>
 
 - ♂ he/him
-- 🔭 I’m currently **looking for work!** Please don't hesitate to contact me for onsite/hybrid roles in the Denver area, or remote roles anywhere.
-- 💻 Tech that I know best:
-  - 🐍 Python, Flask, Django
+- 💻 Platform Engineer at Ibotta
   - 💎 Ruby, Ruby on Rails
+  - 🐍 Python
   - 💾 PostgreSQL, Relational and NoSQL databases
-  - ☁ Google Cloud Platform (GCP), Amazon Web Services (AWS)
+  - ☁️ Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
 - 💸 Ex-[Gusto](https://gusto.com/)
 - 🧑‍💻 [Turing](https://turing.edu/) Alum; 2108 BE
