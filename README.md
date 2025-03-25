@@ -5,10 +5,11 @@
 
 - ♂ he/him
 - 💻 Platform Engineer at Ibotta
+  - 𝕂  Kotlin
   - 💎 Ruby, Ruby on Rails
   - 🐍 Python
   - 💾 PostgreSQL, Relational and NoSQL databases
-  - ☁️ Google Cloud Platform (GCP), Amazon Web Services (AWS)
+  - ☁️ Amazon Web Services (AWS), Google Cloud Platform (GCP)
 
 - 💸 Ex-[Gusto](https://gusto.com/)
 - 🧑‍💻 [Turing](https://turing.edu/) Alum; 2108 BE
