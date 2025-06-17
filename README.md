@@ -6,7 +6,7 @@
 - ♂ he/him
 - 💻 Platform Engineer at Ibotta
   - 𝕂  Kotlin
-  - 💎 Ruby, Ruby on Rails
+  - 💎 Ruby
   - 🐍 Python
   - 💾 PostgreSQL, Relational and NoSQL databases
   - ☁️ Amazon Web Services (AWS), Google Cloud Platform (GCP)
